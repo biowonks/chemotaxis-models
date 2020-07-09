@@ -120,8 +120,7 @@ Contains HMMER3 HMMs for classifying chemotaxis proteins into specific subfamili
 
 
 ## References
-* Alexander, Roger P., and Igor B. Zhulin. "Evolutionary genomics reveals conserved structural determinants of signaling and adaptation in microbial chemoreceptors." Proceedings of the National Academy of Sciences 104.8 (2007): 2885-2890.
-* Wuichet, Kristin, and Igor B. Zhulin. "Origins and diversification of a complex signal transduction system in prokaryotes." Science Signaling 3.128 (2010): ra50.
+* [Alexander, R. P. & Zhulin, I. B. Evolutionary genomics reveals conserved structural determinants of signaling and adaptation in microbial chemoreceptors. _Proc Natl Acad Sci USA_ **104**, 2885–90 (2007).](http://www.ncbi.nlm.nih.gov/pubmed/20587806 "Kristen and Zhulin")
+* [Wuichet, K. & Zhulin, I. B. Origins and diversification of a complex signal transduction system in prokaryotes. _Sci Signal_ **3**, ra50 (2010).](http://www.pnas.org/content/104/8/2885.long "Alexander and Zhulin")
+* [Ortega, D. R. & Zhulin, I. B. Phylogenetic and Protein Sequence Analysis of Bacterial Chemoreceptors. _in Bacterial Chemosensing: Methods and Protocols (ed. Manson, M. D.)_ 373–385 (Springer New York, 2018). doi:10.1007/978-1-4939-7577-8_29.](https://link.springer.com/protocol/10.1007%2F978-1-4939-7577-8_29)
 
-[1]: http://www.ncbi.nlm.nih.gov/pubmed/20587806 "Kristen and Zhulin"
-[2]: http://www.pnas.org/content/104/8/2885.long "Alexander and Zhulin"
